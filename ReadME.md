@@ -1,1 +1,1 @@
-Homeworks for CSE - 527 - Computer Vision - Stonybrook - Fall 2019
+Homeworks - Computer Vision - Stonybrook - Fall 2019
